@@ -1,12 +1,15 @@
 {
   "name": "sortzzy",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A utility to fuzzy sort an array of JSON objects using levenshtein distance and fuzzy logic.",
   "main": "index.js",
   "scripts": {
     "test": "mocha "
   },
-  "repository": "",
+  "repository": {
+      "type": "git",
+      "url": "git://github.com/jefarmstrong/sortzzy.git"
+  },
   "keywords": [
     "levenshtein",
     "distance",
